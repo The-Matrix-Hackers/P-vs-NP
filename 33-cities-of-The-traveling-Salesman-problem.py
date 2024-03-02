@@ -1,3 +1,4 @@
+# My video about 33-cities https://www.youtube.com/watch?v=6h8i87zK0qo
 import itertools
 num = 1
 # Given list of cities
